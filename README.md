@@ -4,7 +4,7 @@
 
 ## **Pack Information:**
 
-**WARNING THIS PACK IS STILL IN DEVELOPMENT AND WORLD BREAKING CHANGES MAY OCCURR.**
+**WARNING THIS PACK IS STILL IN DEVELOPMENT AND WORLD BREAKING CHANGES MAY OCCUR.**
 
 [**Dysfunctional Warfare**](https://legacy.curseforge.com/minecraft/modpacks/dysfunctional-warfare) is the **BEST** all propose war pack of all time developed by **Dysfunctional Entertainment** and the minds behind [**Hexangle's Tech, Bombs, Guns, And War**](https://legacy.curseforge.com/minecraft/modpacks/hexangles-tech-bombs-guns-war).
 
