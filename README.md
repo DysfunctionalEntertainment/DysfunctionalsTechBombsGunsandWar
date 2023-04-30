@@ -10,9 +10,11 @@ Dysfunctional Warfare is designed from the ground up with multiplayer and perf
 
 ## Links:
 
-Website - (In Development)
+Website (In Development)
 
-Discord - https://discord.gg/my7kTV7VYw
+[Discord](https://discord.gg/my7kTV7VYw)
+
+[GitHub Repo](https://github.com/DysfunctionalDev/DysfunctionalWarfare)
 
 ## Mod List (V1.0):
 
