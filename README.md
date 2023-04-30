@@ -18,3 +18,5 @@ Website (In Development)
 [Discord](https://discord.gg/my7kTV7VYw)
 
 [GitHub Repo](https://github.com/DysfunctionalDev/DysfunctionalWarfare)
+
+## [**WARNING THIS PACK IS NOT UPDATED FOR UPDATES GO HERE**](https://www.curseforge.com/minecraft/modpacks/dysfunctional-warfare)
