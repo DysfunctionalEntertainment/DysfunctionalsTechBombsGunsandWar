@@ -1,0 +1,49 @@
+{
+	title: "Hbm!",
+	x: -2.0d,
+	y: -4.5d,
+	text: [
+		"HBMNTM, or NTM for short, is a very complex and in depth mod! It adds some very interesting things, like Radiation, nukes, and even it's own power generation system! Don't worry, they have an inbuilt converter for it, so no worries about exchanging",
+		"it with RF! It also adds indepth chemical usage, some crazy OP weapons, and even a dark matter reactor, when you're ready!"
+	],
+	tasks: [{
+		uid: "5e218526",
+		type: "checkmark",
+		icon: {
+			id: "hbm:battery_generic",
+			tag: {
+				charge: 5000L
+			}
+		}
+	}],
+	rewards: [{
+		uid: "9541baee",
+		type: "item",
+		item: "hbm:machine_coal_off"
+	},
+	{
+		uid: "5c094d0e",
+		type: "item",
+		item: {
+			id: "hbm:fluid_barrel_full",
+			tag: {
+				HbmFluidKey: {
+					FluidName: "water",
+					Amount: 16000
+				}
+			}
+		}
+	},
+	{
+		uid: "04004648",
+		type: "item",
+		item: "minecraft:coal",
+		count: 16
+	},
+	{
+		uid: "f19577f3",
+		type: "item",
+		item: "hbm:red_cable",
+		count: 16
+	}]
+}

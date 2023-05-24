@@ -1,0 +1,36 @@
+{
+	x: -1.0d,
+	y: -5.5d,
+	text: [
+		"Where to start, where to start... Immersive Engineering is one helluva mod, man. It's got phenomenal progression, it's great standalone, and it has a ton of addons once you're tired of the base mod! It really gives those war time factories that, well",
+		"war time look! I'd definitely recommend it, especially if you're new to modded."
+	],
+	tasks: [{
+		uid: "e1f89b14",
+		type: "checkmark",
+		title: "Immersive Engineering!",
+		icon: "immersiveengineering:tool"
+	}],
+	rewards: [{
+		uid: "f7cd6116",
+		type: "item",
+		item: "immersiveengineering:tool"
+	},
+	{
+		uid: "9eef4eab",
+		type: "item",
+		item: "immersiveengineering:tool 1 3"
+	},
+	{
+		uid: "7b9ed054",
+		type: "item",
+		item: "immersiveengineering:stone_decoration",
+		count: 27
+	},
+	{
+		uid: "9e3d94c3",
+		type: "item",
+		item: "minecraft:coal",
+		count: 16
+	}]
+}
