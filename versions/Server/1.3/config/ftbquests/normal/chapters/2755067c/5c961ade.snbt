@@ -1,0 +1,43 @@
+{
+	icon: {
+		id: "techguns:minigun",
+		tag: {
+			ammo: 200s,
+			ammovariant: "default",
+			camo: 0b
+		}
+	},
+	x: 0.0d,
+	y: -3.5d,
+	text: [
+		"One of the other Pillars Of Destruction in this pack, Techguns! It adds a lot of stuff to make the game hard, yet rewarding. Since theres no I-Frames anymore, any NPC with a gun and decent aim can and will turn you into minced meat! Ouch!"
+	],
+	tasks: [{
+		uid: "37e2570b",
+		type: "checkmark",
+		title: "Techguns!"
+	}],
+	rewards: [{
+		uid: "24bac3d6",
+		type: "item",
+		item: {
+			id: "techguns:pistol",
+			tag: {
+				ammo: 18s,
+				ammovariant: "default",
+				camo: 0b
+			}
+		}
+	},
+	{
+		uid: "86305d98",
+		type: "item",
+		item: "techguns:itemshared 1 11",
+		count: 16
+	},
+	{
+		uid: "0151178e",
+		type: "item",
+		item: "techguns:basicmachine"
+	}]
+}

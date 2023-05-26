@@ -1,0 +1,41 @@
+{
+	icon: {
+		id: "actuallyadditions:item_battery",
+		tag: {
+			Energy: 200000
+		}
+	},
+	x: 0.0d,
+	y: -4.5d,
+	text: [
+		"Actually Additions is an Actually Awesome mod that adds tons of unique stuff to the world! From farmers to atomic reconstructors, its no wonder some people love it! "
+	],
+	tasks: [{
+		uid: "9185c20d",
+		type: "checkmark",
+		title: "Actually Additions!",
+		icon: "actuallyadditions:item_crystal_empowered 1 2"
+	}],
+	rewards: [{
+		uid: "8c30c2e1",
+		type: "item",
+		item: "actuallyadditions:block_coal_generator"
+	},
+	{
+		uid: "9dd00ee0",
+		type: "item",
+		item: "minecraft:coal",
+		count: 16
+	},
+	{
+		uid: "b3b06e3b",
+		type: "item",
+		item: "actuallyadditions:item_laser_wrench"
+	},
+	{
+		uid: "f5b37b9e",
+		type: "item",
+		item: "actuallyadditions:block_laser_relay",
+		count: 16
+	}]
+}

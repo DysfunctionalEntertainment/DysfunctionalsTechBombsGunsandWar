@@ -1,0 +1,43 @@
+{
+	icon: {
+		id: "mekanism:energytablet",
+		tag: {
+			mekData: {
+				energyStored: 1000000.0d
+			}
+		}
+	},
+	x: -1.0d,
+	y: -4.5d,
+	text: [
+		"Mekanism, a classic! Everyone who's played a tech modpack has probably used this awesome mod before! It adds ore quintupling, fusion reactors, and a dozen other things I can't hope to describe here!"
+	],
+	tasks: [{
+		uid: "daeb9139",
+		type: "checkmark",
+		title: "Mekanism!",
+		icon: "mekanism:ingot 1 1"
+	}],
+	rewards: [{
+		uid: "8c8c11ff",
+		type: "item",
+		item: "mekanismgenerators:generator"
+	},
+	{
+		uid: "9a198176",
+		type: "item",
+		item: "minecraft:coal",
+		count: 16
+	},
+	{
+		uid: "b2634cdf",
+		type: "item",
+		item: {
+			id: "mekanism:transmitter",
+			tag: {
+				tier: 0
+			}
+		},
+		count: 16
+	}]
+}
