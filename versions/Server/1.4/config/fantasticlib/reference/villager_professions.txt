@@ -1,0 +1,14 @@
+minecraft:farmer
+minecraft:librarian
+minecraft:priest
+minecraft:smith
+minecraft:butcher
+minecraft:nitwit
+openblocks:radio
+pneumaticcraft:mechanic
+rewired:runner
+actuallyadditions:jamguy
+actuallyadditions:engineer
+cyclicmagic:sage
+cyclicmagic:druid
+immersiveengineering:engineer
