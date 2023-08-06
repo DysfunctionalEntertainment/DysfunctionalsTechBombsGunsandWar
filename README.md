@@ -13,5 +13,3 @@ Dysfunctional Warfare is designed from the ground up with multiplayer and perf
 Website (In Development)
 
 [Discord](https://discord.gg/9MwChRYqwG)
-
-[GitHub Repo](https://github.com/DysfunctionalDev/DysfunctionalWarfare)
