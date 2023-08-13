@@ -4,9 +4,9 @@
 
 [**Dysfunctional's Tech, Bombs, Guns, and War**](https://legacy.curseforge.com/minecraft/modpacks/dysfunctionals-tech-bombs-guns-war) Big F*****g Guns, Weapons of Mass Destruction, And a world full of things to exterminate..
 
-## Project Update
+## Project Update:
 
-That's right were back, after forming Dysfunctional Entertainment we went to start a new pack that would a spiritual successor to Hexangle's Tech, Bombs, Guns, and War but could not translate the popularity over to the new pack so instead were coming back and merging the two. We are also working on a 1.19+ pack but I won't speak too much about that right now. Both the 1.12 and 1.19+ packs will be updated and maintained at the same time but as for older versions of the pack they will be archived but main releases will be kept public.
+That's right were back, after forming Dysfunctional Entertainment we went to start a new pack that would a spiritual successor to "Hexangle's Tech, Bombs, Guns, and War" but could not translate the popularity over to the new pack so instead were coming back and merging them to create "Dysfunctional's Tech, Bombs, Guns, and War." We are also working on a 1.19+ pack but I won't speak too much about that right now. Both the 1.12 and 1.19+ packs will be updated and maintained at the same time but as for older versions of the pack they will be archived.
 
 ## 1.12.2 Information:
 
