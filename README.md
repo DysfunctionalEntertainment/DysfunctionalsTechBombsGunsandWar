@@ -2,7 +2,7 @@
 
 [![Sponsor Banner](https://scalacube.com/images/banners/modpack.jpg)](https://scalacube.com/p/_hosting_server_minecraft/2647495)
 
-[**Dysfunctional's Tech, Bombs, Guns, and War**](https://legacy.curseforge.com/minecraft/modpacks/dysfunctionals-tech-bombs-guns-war) Big F*****g Guns, Weapons of Mass Destruction, And a world full of things to exterminate..
+[**Dysfunctional's Tech, Bombs, Guns, and War**](https://www.curseforge.com/minecraft/modpacks/dysfunctionals-tech-bombs-guns-war) Big F*****g Guns, Weapons of Mass Destruction, And a world full of things to exterminate..
 
 ## Project Update:
 
