@@ -1,2 +1,0 @@
-#List of Hidden Players
-thehexangle:false
