@@ -1,6 +1,6 @@
 # Dysfunctional's Tech, Bombs, Guns, and War
 
-<a href="https://billing.apexminecrafthosting.com/aff.php?aff=8139"><img src="https://cdn.apexminecrafthosting.com/img/theme/apex-hosting-mobile.png" width="594" height="100" border="0"></a>
+[![Sponsor](https://cdn.apexminecrafthosting.com/img/theme/apex-hosting-mobile.png "Apex Banner")](https://billing.apexminecrafthosting.com/aff.php?aff=8139 "Sponsor Link")
 
 [**Dysfunctional's Tech, Bombs, Guns, and War**](https://www.curseforge.com/minecraft/modpacks/dysfunctionals-tech-bombs-guns-war) Big F*****g Guns, Weapons of Mass Destruction, And a world full of things to exterminate..
 
