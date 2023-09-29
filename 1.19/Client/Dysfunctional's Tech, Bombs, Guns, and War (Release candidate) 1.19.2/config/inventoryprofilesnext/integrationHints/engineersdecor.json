@@ -1,0 +1,192 @@
+{
+    "sirttas.elementalcraft.item.source.analysis.SourceAnalysisGlassScreen": {
+        "playerSideOnly": true
+    },
+    "wile.engineersdecor.blocks.EdCraftingTable$CraftingTableGui": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": -43,
+                "bottom": -14
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -31,
+                "bottom": -26
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -19,
+                "bottom": -38
+            }
+        }
+    },
+    "wile.engineersdecor.blocks.EdLabeledCrate$LabeledCrateGui": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": -1,
+                "bottom": -13
+            },
+            "MOVE_TO_PLAYER": {
+                "top": -16
+            },
+            "SORT": {
+                "top": -16
+            },
+            "SORT_COLUMNS": {
+                "top": -16
+            },
+            "SORT_ROWS": {
+                "top": -16
+            }
+        }
+    },
+    "wile.engineersdecor.blocks.EdFurnace$FurnaceGui": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": -43,
+                "bottom": -15
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -31,
+                "bottom": -28
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -19,
+                "bottom": -41
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "wile.engineersdecor.blocks.EdElectricalFurnace$ElectricalFurnaceGui": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": -43,
+                "bottom": -14
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -31,
+                "bottom": -27
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -19,
+                "bottom": -40
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "wile.engineersdecor.blocks.EdHopper$HopperGui": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": -43,
+                "bottom": -1
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -31,
+                "bottom": -14
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -19,
+                "bottom": -27
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "wile.engineersdecor.blocks.EdDropper$DropperGui": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": -43,
+                "bottom": -17
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -31,
+                "bottom": -30
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -19,
+                "bottom": -43
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "wile.engineersdecor.blocks.EdPlacer$PlacerGui": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": -43,
+                "bottom": -1
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -31,
+                "bottom": -14
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -19,
+                "bottom": -27
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "wile.engineersdecor.blocks.EdWasteIncinerator$WasteIncineratorGui": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": -44,
+                "bottom": -17
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -32,
+                "bottom": -30
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -20,
+                "bottom": -43
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    }
+}

@@ -1,0 +1,151 @@
+{
+    "appeng.client.gui.implementations.EnergyLevelEmitterScreen": {
+        "playerSideOnly": true
+    },
+    "appeng.client.gui.implementations.ChestScreen": {
+        "playerSideOnly": true
+    },
+    "appeng.client.gui.implementations.CondenserScreen": {
+        "playerSideOnly": true
+    },
+    "appeng.client.gui.implementations.DriveScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 44,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "appeng.client.gui.implementations.InscriberScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "appeng.client.gui.implementations.InterfaceScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "appeng.client.gui.implementations.MolecularAssemblerScreen": {
+        "playerSideOnly": true
+    },
+    "appeng.client.gui.implementations.PatternProviderScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "appeng.client.gui.implementations.SpatialAnchorScreen": {
+        "ignore": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 44,
+                "top": -5
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -20
+            }
+        }
+    },
+    "appeng.menu.implementations.SpatialAnchorMenu": {
+        "ignore": true
+    },
+    "appeng.client.gui.implementations.VibrationChamberScreen": {
+        "playerSideOnly": true
+    },
+    "appeng.client.gui.implementations.QNBScreen": {
+        "playerSideOnly": true
+    },
+    "appeng.client.gui.me.common.MEStorageScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": 20
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 20
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 20
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -22
+            }
+        }
+    },
+    "appeng.client.gui.implementations.IOBusScreen": {
+        "playerSideOnly": true
+    },
+    "appeng.client.gui.implementations.WirelessScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "appeng.client.gui.implementations.SecurityStationScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": 20
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 20
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 20
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "appeng.menu.implementations.SecurityStationMenu": {
+        "ignore": true
+    }
+}
