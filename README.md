@@ -1,19 +1,19 @@
 # Dysfunctional's Tech, Bombs, Guns, and War
 
-[![Sponsor](https://cdn.apexminecrafthosting.com/img/theme/apex-hosting-mobile.png "Apex Banner")](https://billing.apexminecrafthosting.com/aff.php?aff=8139 "Sponsor Link")
+[![Sponsor](https://cdn.apexminecrafthosting.com/img/theme/apex-hosting-mobile.png)](https://billing.apexminecrafthosting.com/aff.php?aff=8139)
 
-[**Dysfunctional's Tech, Bombs, Guns, and War**](https://www.curseforge.com/minecraft/modpacks/dysfunctionals-tech-bombs-guns-war) Big F*****g Guns, Weapons of Mass Destruction, And a world full of things to exterminate..
+[**Dysfunctional's Tech, Bombs, Guns, and War**](https://www.curseforge.com/minecraft/modpacks/dysfunctionals-tech-bombs-guns-war) The worlds BEST all purpose war packs for Minecraft versions old and new.
 
-## Project Update:
+## Latest Development Update:
+Today Saturday 21 of October Dysfunctional's Tech, Bombs, Guns, and War 1.19.2 is out. For the past three months I have spent almost all of my free time working on a more up to date version to succeed our 1.12.2 pack. If you were wondering NO the 1.12.2 pack is not going anywhere and will still be updated and to ensure it's continued development I have given Calcium full control over it's development. As for the 1.19.2 pack I plan to continue to update it to newer versions of Minecraft as mods are updated over time.
 
-That's right were back, after forming Dysfunctional Entertainment we went to start a new pack that would a spiritual successor to "Hexangle's Tech, Bombs, Guns, and War" but could not translate the popularity over to the new pack so instead were coming back and merging them to create "Dysfunctional's Tech, Bombs, Guns, and War." We are also working on a 1.19+ pack but I won't speak too much about that right now. Both the 1.12 and 1.19+ packs will be updated and maintained at the same time but as for older versions of the pack they will be archived.
+## 1.19.2 Information:
+Opposed to our 1.12.2 pack I took a very different approach to tech mod choice focusing on multi block structures like Immersive Engineering and Create instead of Mekanism or The Thermal Series. As for guns Mr.Crayfishes gun mod plus addons were chosen, unfortunately HBM's Nuclear Tech Mod is not updated to recent versions of Minecraft so aurilisdev's tech mod collection was chosen. Personal maintenance is also a large part of this pack so you will need to eat a diverse diet to stay healthy along with per section damage depending on where you are hit similar to Tarkov's health system. As for future plans I would like to build out a diverse quest tree seamlessly blending every mod together to give a clear direction for single player and figure out a way to fill the world with more challenges making weaponry more of necessary step for progression. We designed this for multiplayer more so than single player but in the future I aim to remedy that.
 
 ## 1.12.2 Information:
-
-Dysfunctional's Tech, Bombs, Guns, and War is designed from the ground up with multiplayer and performance in mind. We have included all the essentials mods for a great war pack Flan's Mod, Nuclear Tech Mod, ICBM Classic, and Techguns. Even with these great mods an equivalent tech mods are needed Mekanism, Refined Storage, Immersive Engineering, Industrial Forgoing, Advanced Generators, and PneumaticCraft are included to mass produce your *"Peace Keeping Tools"*. Along with these mods there are many more to round out the experience and ensure the death and destruction of any adversary you may have.
+The classic war pack experience with everything you love Flan's Mod, HBM's Nuclear Tech Mod, ICBM Classic, and Techguns, Mekanism, Refined Storage, Immersive Engineering, Industrial Forgoing, Advanced Generators, Pneumatic Craft, and many more. This is not a "Light Pack" and it's not meant to be it can be unfair, overpowered, buggy, and broken but can always guarantee a good time. If you're playing with friends or by yourself it has everything you need to decimate anything or anyone in your way. A performance mod like Optifine is highly recommended and a PC with 16GB of ram or more but it should work fine with out it.
 
 ## Links:
-
 [Website](https://dysent.webflow.io/)
 
 [Discord](https://discord.gg/9MwChRYqwG)

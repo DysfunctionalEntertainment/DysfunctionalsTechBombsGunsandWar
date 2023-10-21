@@ -1,0 +1,49 @@
+{
+    "com.buuz135.refinedstoragerequestify.proxy.client.GuiCraftingEmitter": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": 35
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 35
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 35
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "com.buuz135.refinedstoragerequestify.proxy.client.GuiRequester": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": -6,
+                "bottom": -12
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 6,
+                "bottom": -25
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 18,
+                "bottom": -38
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    }
+}

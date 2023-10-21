@@ -1,0 +1,183 @@
+{
+    "ironfurnaces.gui.BlockMillionFurnaceScreen": {
+        "playerSideOnly": true
+    },
+    "ironfurnaces.gui.BlockUnobtainiumFurnaceScreen": {
+        "playerSideOnly": true
+    },
+    "ironfurnaces.gui.BlockVibraniumFurnaceScreen": {
+        "playerSideOnly": true
+    },
+    "ironfurnaces.gui.BlockAllthemodiumFurnaceScreen": {
+        "playerSideOnly": true
+    },
+    "ironfurnaces.gui.furnaces.BlockIronFurnaceScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 44,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "ironfurnaces.gui.furnaces.BlockGoldFurnaceScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "ironfurnaces.gui.furnaces.BlockDiamondFurnaceScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "ironfurnaces.gui.furnaces.BlockEmeraldFurnaceScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "ironfurnaces.gui.furnaces.BlockObsidianFurnaceScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "ironfurnaces.gui.furnaces.BlockCrystalFurnaceScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "ironfurnaces.gui.furnaces.BlockNetheriteFurnaceScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "ironfurnaces.gui.furnaces.BlockCopperFurnaceScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "ironfurnaces.gui.furnaces.BlockSilverFurnaceScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "ironfurnaces.gui.furnaces.other.BlockAllthemodiumFurnaceScreen": {
+        "playerSideOnly": true
+    },
+    "ironfurnaces.gui.furnaces.other.BlockVibraniumFurnaceScreen": {
+        "playerSideOnly": true
+    },
+    "ironfurnaces.gui.furnaces.other.BlockUnobtainiumFurnaceScreen": {
+        "playerSideOnly": true
+    },
+    "ironfurnaces.gui.furnaces.BlockMillionFurnaceScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "ironfurnaces.gui.BlockIronFurnaceScreen": {
+        "playerSideOnly": true
+    },
+    "ironfurnaces.gui.BlockSilverFurnaceScreen": {
+        "playerSideOnly": true
+    },
+    "ironfurnaces.gui.BlockWirelessEnergyHeaterScreen": {
+        "playerSideOnly": true
+    },
+    "ironfurnaces.gui.BlockDiamondFurnaceScreen": {
+        "playerSideOnly": true
+    },
+    "ironfurnaces.gui.BlockCrystalFurnaceScreen": {
+        "playerSideOnly": true
+    },
+    "ironfurnaces.gui.BlockCopperFurnaceScreen": {
+        "playerSideOnly": true
+    },
+    "ironfurnaces.gui.BlockNetheriteFurnaceScreen": {
+        "playerSideOnly": true
+    },
+    "ironfurnaces.gui.BlockObsidianFurnaceScreen": {
+        "playerSideOnly": true
+    },
+    "ironfurnaces.gui.BlockEmeraldFurnaceScreen": {
+        "playerSideOnly": true
+    },
+    "ironfurnaces.gui.BlockGoldFurnaceScreen": {
+        "playerSideOnly": true
+    }
+}
