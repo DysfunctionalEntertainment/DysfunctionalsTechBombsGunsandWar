@@ -1,0 +1,332 @@
+{
+    "electrodynamics.client.screen.tile.ScreenWindmill": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "electrodynamics.client.screen.tile.ScreenHydroelectricGenerator": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "electrodynamics.client.screen.tile.ScreenCobblestoneGenerator": {
+        "playerSideOnly": true
+    },
+    "electrodynamics.client.screen.tile.ScreenCreativePowerSource": {
+        "playerSideOnly": true
+    },
+    "electrodynamics.client.screen.tile.ScreenCreativeFluidSource": {
+        "playerSideOnly": true
+    },
+    "electrodynamics.client.screen.tile.ScreenFluidVoid": {
+        "playerSideOnly": true
+    },
+    "electrodynamics.client.screen.tile.ScreenElectrolyticSeparator": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "electrodynamics.client.screen.tile.ScreenCarbyneBatteryBox": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "electrodynamics.client.screen.tile.ScreenSolarPanel": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "electrodynamics.client.screen.tile.ScreenCombustionChamber": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "electrodynamics.client.screen.tile.ScreenChemicalCrystallizer": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "electrodynamics.client.screen.tile.ScreenChemicalMixer": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "electrodynamics.client.screen.tile.ScreenMineralWasher": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "electrodynamics.client.screen.tile.ScreenFermentationPlant": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "electrodynamics.client.screen.tile.ScreenLithiumBatteryBox": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "electrodynamics.client.screen.tile.ScreenBatteryBox": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "electrodynamics.client.screen.tile.ScreenElectricArcFurnaceTriple": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "electrodynamics.client.screen.tile.ScreenElectricArcFurnaceDouble": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "electrodynamics.client.screen.tile.ScreenElectricArcFurnace": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "electrodynamics.client.screen.tile.ScreenElectricFurnaceTriple": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "electrodynamics.client.screen.tile.ScreenElectricFurnaceDouble": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "electrodynamics.client.screen.tile.ScreenElectricFurnace": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "electrodynamics.client.screen.tile.ScreenCoalGenerator": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 44,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "electrodynamics.client.screen.item.ScreenSeismicScanner": {
+        "playerSideOnly": true
+    },
+    "electrodynamics.client.screen.tile.ScreenTankGeneric": {
+        "playerSideOnly": true
+    },
+    "electrodynamics.client.screen.tile.ScreenDO2OProcessor": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "electrodynamics.client.screen.tile.ScreenChargerGeneric": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "electrodynamics.client.screen.tile.ScreenO2OProcessor": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "electrodynamics.client.screen.tile.ScreenO2OProcessorDouble": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "electrodynamics.client.screen.tile.ScreenO2OProcessorTriple": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    }
+}

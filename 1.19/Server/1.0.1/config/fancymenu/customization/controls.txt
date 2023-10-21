@@ -1,0 +1,91 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screens.controls.ControlsScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=400226%
+  orientation = mid-centered
+  x = -151
+  action = movebutton
+  y = -10
+}
+
+customization {
+  identifier = %id=400226%
+  width = 302
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=505154%
+  orientation = mid-centered
+  x = 1
+  action = movebutton
+  y = -31
+}
+
+customization {
+  identifier = %id=345154%
+  orientation = mid-centered
+  x = -151
+  action = movebutton
+  y = -31
+}
+
+customization {
+  identifier = %id=345202%
+  orientation = mid-centered
+  x = -50
+  action = movebutton
+  y = -52
+}
+
+customization {
+  identifier = %id=345202%
+  width = 100
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=505178%
+  orientation = mid-centered
+  x = 51
+  action = movebutton
+  y = -52
+}
+
+customization {
+  identifier = %id=505178%
+  width = 100
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=345178%
+  orientation = mid-centered
+  x = -151
+  action = movebutton
+  y = -52
+}
+
+customization {
+  identifier = %id=345178%
+  width = 100
+  action = resizebutton
+  height = 20
+}
+

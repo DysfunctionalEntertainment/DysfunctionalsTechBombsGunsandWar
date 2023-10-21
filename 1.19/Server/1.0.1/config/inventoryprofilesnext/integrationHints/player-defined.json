@@ -1,0 +1,1069 @@
+{
+    "net.minecraft.client.gui.screens.inventory.InventoryScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            },
+            "MOVE_TO_CONTAINER": {
+                "bottom": -12
+            },
+            "SORT": {
+                "horizontalOffset": 12
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 12
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 12
+            },
+            "CONTINUOUS_CRAFTING": {
+                "horizontalOffset": 1
+            }
+        }
+    },
+    "lain.mods.cos.impl.client.gui.GuiCosArmorInventory": {
+        "ignore": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "lain.mods.cos.impl.inventory.ContainerCosArmor": {
+        "ignore": true
+    },
+    "net.minecraft.client.gui.screens.inventory.ContainerScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.CraftingScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            },
+            "CONTINUOUS_CRAFTING": {
+                "horizontalOffset": 1
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.FurnaceScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.LoomScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.SmokerScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.BlastFurnaceScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.CartographyTableScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.GrindstoneScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.SmithingScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.StonecutterScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.HopperScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.DispenserScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.BrewingStandScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "earth.terrarium.ad_astra.client.screen.LargeVehicleScreen": {
+        "buttonHints": {
+            "MOVE_TO_PLAYER": {
+                "top": 9
+            },
+            "SORT": {
+                "horizontalOffset": -36,
+                "top": 21
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -24,
+                "top": 33
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -12,
+                "top": 45
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "earth.terrarium.ad_astra.client.screen.VehicleScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            },
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": 12,
+                "top": 12
+            },
+            "SORT": {
+                "horizontalOffset": 12,
+                "top": 12
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 12,
+                "top": 12
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 12,
+                "top": 12
+            }
+        }
+    },
+    "earth.terrarium.ad_astra.client.screen.CoalGeneratorScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "earth.terrarium.ad_astra.client.screen.CompressorScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "earth.terrarium.ad_astra.client.screen.NasaWorkbenchScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "earth.terrarium.ad_astra.client.screen.ConversionScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "earth.terrarium.ad_astra.client.screen.SolarPanelScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "earth.terrarium.ad_astra.client.screen.OxygenDistributorScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "earth.terrarium.ad_astra.client.screen.WaterPumpScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "earth.terrarium.ad_astra.client.screen.CryoFreezerScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "shadows.apotheosis.ench.table.ApothEnchantScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -22
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.AnvilScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "shadows.apotheosis.village.fletching.FletchingScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "shadows.apotheosis.adventure.affix.reforging.ReforgingScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            },
+            "SORT": {
+                "bottom": -1
+            },
+            "SORT_COLUMNS": {
+                "bottom": -1
+            },
+            "SORT_ROWS": {
+                "bottom": -1
+            }
+        }
+    },
+    "shadows.apotheosis.adventure.affix.socket.gem.cutting.GemCuttingScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "shadows.apotheosis.adventure.affix.salvaging.SalvagingScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "earth.terrarium.chipped.common.menu.ChippedScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "com.simibubi.create.content.schematics.cannon.SchematicannonScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            },
+            "SORT": {
+                "horizontalOffset": 8,
+                "bottom": 8
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 8,
+                "bottom": 8
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 8,
+                "bottom": 8
+            }
+        }
+    },
+    "com.simibubi.create.content.schematics.table.SchematicTableScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": 8,
+                "bottom": 8
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 8,
+                "bottom": 8
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 8,
+                "bottom": 8
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 44,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "com.simibubi.create.content.equipment.toolbox.ToolboxScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": 42,
+                "bottom": 8
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 42,
+                "bottom": 8
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 42,
+                "bottom": 8
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.CreativeModeInventoryScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "com.simibubi.create.content.logistics.filter.FilterScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            },
+            "SORT": {
+                "horizontalOffset": 8,
+                "bottom": 8
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 8,
+                "bottom": 8
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 8,
+                "bottom": 8
+            }
+        }
+    },
+    "com.simibubi.create.content.logistics.filter.AttributeFilterScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": 22,
+                "bottom": 8
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 22,
+                "bottom": 8
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 22,
+                "bottom": 8
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "electrodynamics.client.screen.tile.ScreenSeismicRelay": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "electrodynamics.client.screen.tile.ScreenCoolantResavoir": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "electrodynamics.client.screen.tile.ScreenQuarry": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "electrodynamics.client.screen.tile.ScreenMotorComplex": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "xfacthd.framedblocks.client.screen.FramingSawScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            },
+            "SORT": {
+                "horizontalOffset": 40
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 40
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 40
+            }
+        }
+    },
+    "immersive_aircraft.client.gui.VehicleScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "bottom": 4
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "com.mrcrayfish.guns.client.screen.WorkbenchScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            },
+            "SORT": {
+                "horizontalOffset": 100,
+                "bottom": 28
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 100,
+                "bottom": 28
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 100,
+                "bottom": 28
+            }
+        }
+    },
+    "nuclearscience.client.screen.ScreenGasCentrifuge": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "nuclearscience.client.screen.ScreenNuclearBoiler": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "nuclearscience.client.screen.ScreenChemicalExtractor": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "nuclearscience.client.screen.ScreenRadioisotopeGenerator": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "nuclearscience.client.screen.ScreenFreezePlug": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "nuclearscience.client.screen.ScreenReactorCore": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "nuclearscience.client.screen.ScreenRadioactiveProcessor": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            },
+            "PROFILE_SELECTOR": {
+                "hide": true
+            },
+            "MOVE_TO_CONTAINER": {
+                "bottom": -12
+            },
+            "CONTINUOUS_CRAFTING": {
+                "horizontalOffset": 43,
+                "bottom": -15
+            }
+        }
+    },
+    "nuclearscience.client.screen.ScreenMSRFuelPreProcessor": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "nuclearscience.client.screen.ScreenParticleInjector": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 44,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            },
+            "SORT": {
+                "bottom": 11
+            },
+            "SORT_COLUMNS": {
+                "bottom": 11
+            },
+            "SORT_ROWS": {
+                "bottom": 11
+            }
+        }
+    },
+    "nuclearscience.client.screen.ScreenQuantumCapacitor": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "nuclearscience.client.screen.ScreenMSRReactorCore": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "nuclearscience.client.screen.ScreenMoltenSaltSupplier": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "nuclearscience.client.screen.ScreenAtomicAssembler": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "com.dannyandson.nutritionalbalance.lunchbox.LunchBoxScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": 35
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 35
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 35
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "com.refinedmods.refinedstorage.screen.CrafterManagerScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            },
+            "SORT": {
+                "horizontalOffset": 17
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 17
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 17
+            }
+        }
+    },
+    "com.refinedmods.refinedstorage.screen.CraftingMonitorScreen": {
+        "ignore": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 44,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "com.refinedmods.refinedstorage.container.CraftingMonitorContainerMenu": {
+        "ignore": true
+    },
+    "net.geforcemods.securitycraft.screen.KeycardReaderScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "net.geforcemods.securitycraft.screen.InventoryScannerScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 27,
+                "top": -21
+            },
+            "SORT": {
+                "horizontalOffset": 7
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 7
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 7
+            }
+        }
+    },
+    "net.geforcemods.securitycraft.screen.ProjectorScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "net.p3pp3rf1y.sophisticatedbackpacks.client.gui.BackpackSettingsScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "net.p3pp3rf1y.sophisticatedstorage.client.gui.StorageSettingsScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "net.p3pp3rf1y.sophisticatedstorage.client.gui.LimitedBarrelScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "net.p3pp3rf1y.sophisticatedstorage.client.gui.LimitedBarrelSettingsScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.ShulkerBoxScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    }
+}
