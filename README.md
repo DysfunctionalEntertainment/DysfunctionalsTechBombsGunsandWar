@@ -13,8 +13,8 @@ Opposed to our 1.12.2 pack I took a very different approach to tech mod choice f
 ## 1.12.2 Information:
 The classic war pack experience with everything you love Flan's Mod, HBM's Nuclear Tech Mod, ICBM Classic, and Techguns, Mekanism, Refined Storage, Immersive Engineering, Industrial Forgoing, Advanced Generators, Pneumatic Craft, and many more. This is not a "Light Pack" and it's not meant to be it can be unfair, overpowered, buggy, and broken but can always guarantee a good time. If you're playing with friends or by yourself it has everything you need to decimate anything or anyone in your way. A performance mod like Optifine is highly recommended and a PC with 16GB of ram or more but it should work fine with out it.
 
-## Calcium's Edit:
-An edit of our 1.12.2 pack designed for fun, balancing and cohesion are thrown out in turn for a chaotic mess of destruction.
+## Calcium's Edit And Public Server:
+An edit of our 1.12.2 pack designed for PAIN AND FUN, balancing and cohesion are thrown out in turn for a chaotic mess of destruction.
 
 ## Links:
 [Website](https://dysent.webflow.io/)
