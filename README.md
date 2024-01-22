@@ -15,4 +15,4 @@ For ease of use install a custom minecraft launcher like the official [Curseforg
 ![Divider](https://github.com/DysfunctionalEntertainment/DysfunctionalAssets/blob/main/Images/Modpacks/Divider.png?raw=true)
 **Server Download and Install:**
 To download server files go [**HERE**](https://www.curseforge.com/minecraft/modpacks/dysfunctionals-tech-bombs-guns-war/files?page=1&pageSize=20) and select the version you are using for your client. Underneath "Additional Files" you can download a preset server pack. Before running make sure you have the corect Java version installed for the version you want to run, Java8 is used for 1.12 and Java17 is used for 1.19+. To run use the .bat file for windows users and for linux use the .sh file.
-[![WebsiteBanner](https://github.com/DysfunctionalEntertainment/DysfunctionalAssets/blob/main/Images/Modpacks/WebsiteBanner.png?raw=true)](https://dysent.webflow.io/)
+[![WebsiteBanner](https://github.com/DysfunctionalEntertainment/DysfunctionalAssets/blob/main/Images/Modpacks/WebsiteBanner.png?raw=true)](https://dysfunctionalentertainment.org)
